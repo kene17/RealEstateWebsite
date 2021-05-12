@@ -1,0 +1,44 @@
+body{
+    /*background-image: url("../images/bg1.jpg");
+    background-position: 0px 60px;
+    */
+}
+
+.booking_button{
+    text-align: right; 
+}
+
+.popup_nums{
+    font-size: 40px;
+    font-weight:bolder;
+    padding-right: 5%;
+}
+
+.search{
+    display:inline-block;
+    margin:3% 0%;
+}
+
+.compass{
+    height:25px;
+    width:25px;
+}
+.buttonImg{
+    background-color: transparent;
+    border: none !important;
+
+}
+
+.main_borders{
+  padding:0% 10% 4% 10%;
+    
+}
+
+.map_style{
+    text-align: center;
+}
+
+.filters{
+    margin: 2% 0%
+}
+

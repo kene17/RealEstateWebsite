@@ -1,0 +1,114 @@
+{
+    "Properties": [
+
+
+        {
+            "LISTING_ID": 1,
+            "ADDRESS_ENG": "8720 Russell Road",
+            "ADDRESS_FR":"8720, Chemin Russell",
+            "PRICE": 400000,
+            "BEDS":3,
+            "BATHS":3,
+            "IMAGES":[
+                
+            ],
+            "AVAILABLE_AGENTS":[
+
+            ],
+            "DESC":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+            "FULL_DESCRIPTION": "RUN DON'T WALK to this beautiful former Jayman show home. This home has every feature and convenience you could want in a home. When you enter you will be greeted with a large entry way, open concept main floor with a very spacious chef-like kitchen, the big eat in dinning area is an entertainers dream and plenty of room in the living room as to cozy up to the fireplace. When you head upstairs the owner 's suite will impress with a gorgeous ensuite consisting of a large soaker tub, oversized shower, separate vanities, in-floor heating and 2 separate closest. You will also find a nice sized flex room, spacious laundry room up stairs, 4 piece main bathroom and 2 more bedrooms. Then head downstairs where you will find another bedroom, bathroom and Theatre room with wet bar and beverage station that is perfect for any movie lover. Must not forget that this home is air conditioned, has front and back irrigation outside and speakers throughout the house. All of this can be yours in the lake community of Auburn Bay close to all amenities and year round lake access just a short distance away",
+            "DESCRIPTION_ENG": "This home has every feature and convenience you could want in a home. When you head upstairs the owners suite will impress with a gorgeous ensuite consisting of a large soaker tub, oversized shower, separate vanities, in-floor heating and 2 separate closest. ",
+            "DESCRIPTION_FR": "Cette maison a toutes les caractéristiques et commodités que vous pourriez souhaiter dans une maison. Lorsque vous montez à l'étage, la suite des propriétaires impressionnera avec une magnifique salle de bains comprenant une grande baignoire, une douche surdimensionnée, des vanités séparées, le chauffage au sol et 2 séparés plus proches.",
+            "FOR_SALE": true,
+            "coordinates": [-75.3372987731628, 45.383321536272049],
+            "BEDROOM": "2",
+            "BATHROOM": "4"
+
+        },
+
+
+        {
+
+            "LISTING_ID": 2,
+            "ADDRESS_ENG": "1490 Youville Drive",
+            "ADDRESS_FR":"1490, Promenade Youville",
+            "PRICE": 100000,
+            "BEDS":1,
+            "BATHS":1,
+            "IMAGES":[
+
+            ],
+            "AVAILABLE_AGENTS":[
+
+            ],
+            "DESC":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+            "FULL_DESCRIPTION": "Nature at its Finest The Shores of Toney Bay are located at the mouth of River Phillip where it meets the Northumberland Straight with direct access to the incredible recreational waterways of River Phillip and nature rich Toney Bay. This nature lovers paradise boasts a plethora of migratory bird life and the rich fish stock of River Philip. The warm waters of the Northumberland Straight are swimmable from your shorefront, easy access to year-around activities and close proximity to the quaint community of Pugwash make this an ideal spot for a permeant residence or cottage. There are also ocean view / deeded access lots available. Large lots with unobstructed views and well away from highway noise. Swim in the warm waters at beautiful Heather's Beach just 4km away, fly fishing in the spring on River Phillip, book at tee time at Northumberland links, 16km away or enjoy a day at the Luxury Fox Harb'r Resort and Spa less then 30 mins away, and in winter enjoy skiing at Ski Wentworth a short 30 minutes drive. Lots are flat, cleared and ready for your dream home. All septic and building lot approvals are in place, good roads, and power to the lot line are included. Please take a few minutes to watch the video of the stunning Shores at Toney Bay",
+            "DESCRIPTION_ENG": "This nature lovers paradise boasts a plethora of migratory bird life and the rich fish stock of River Philip. Swim in the warm waters at beautiful Heather's Beach just 4km away, fly fishing in the spring on River Phillip, book at tee time at Northumberland links, 16km away or enjoy a day at the Luxury Fox Harb'r Resort and Spa less then 30 mins away, and in winter enjoy skiing at Ski Wentworth a short 30 minutes drive.",
+            "DESCRIPTION_FR": "Ce paradis des amoureux de la nature possède une pléthore d'oiseaux migrateurs et le riche stock de poissons de la rivière Philip. Nagez dans les eaux chaudes de la magnifique plage de Heather à seulement 4 km, pêchez à la mouche au printemps sur la rivière Phillip, réservez à l'heure du départ à Northumberland links, à 16 km ou profitez d'une journée au Luxury Fox Harb'r Resort and Spa à moins de 30 minutes loin, et en hiver, profitez du ski à Ski Wentworth à 30 minutes en voiture.",
+            "FOR_SALE": true,
+            "coordinates": [-75.546518086577947, 45.467134581917357],
+            "BEDROOM": "7",
+            "BATHROOM": "4"
+            
+
+
+
+        },
+
+        {
+
+            "LISTING_ID": 3,
+            "ADDRESS_ENG": "100 Charlie Rogers Place",
+            "ADDRESS_FR":"100, Place Charlie Rogers",
+
+            "PRICE": 200000,
+            "BEDS":2,
+            "BATHS":3,
+            "IMAGES":[
+
+            ],
+            "AVAILABLE_AGENTS":[
+
+            ],
+            "DESC":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+            "FULL_DESCRIPTION": "Custom, Hi-Ranch home located in sought after neighborhood in the Heart of Petawawa. This home features 2+1 bedrooms and 4 bathrooms. Main level features spacious foyer, hardwood staircase, gleaming hardwood floors and open concept living. Large windows provide lots of natural light, vaulted ceilings in living room, a spectacular spacious kitchen with stainless steel appliances and large island. Master bedroom with walk through closet and 3 piece en-suite with custom tile shower and heated tile floor. Lower level features a finished rec room with cozy gas fireplace, bedroom and 3 piece bathroom. Patio door in foyer leads to large private backyard with no rear neighbours, spacious wood deck and hot tub. Double attached garage completes the package. Pack your backs and move right in! No Conveyances of offers until Friday April 9th at 3PM however the seller has the right to view and may accept pre-emptive offers",
+            "DESCRIPTION_ENG": "Main level features spacious foyer, hardwood staircase, gleaming hardwood floors and open concept living.            ",
+            "DESCRIPTION_FR": "Le niveau principal comprend un hall d'entrée spacieux, un escalier en bois franc, des planchers de bois franc étincelants et un salon à aire ouverte.",
+            "FOR_SALE": true,
+            "coordinates": [-75.898610599532319, 45.295014379864874],
+            "BEDROOM": "2",
+            "BATHROOM": "4"
+
+
+
+
+        },
+
+        {
+
+            "LISTING_ID": 4,
+            "ADDRESS_ENG": "2785 8th Line Road",
+            "ADDRESS_FR": "2785, Chemin 8th Line",
+            "PRICE": 300000,
+            "BEDS":3,
+            "BATHS":3,
+            "IMAGES":[
+
+            ],
+            "AVAILABLE_AGENTS":[
+
+            ],
+            "DESC":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+            "FULL_DESCRIPTION": "Nestled in a quiet cul-de-sac in the family-friendly Ski Club/Widdifield neighbourhood, is 62 Riddle Court, a hidden gem that has everything you've been searching for - inside and out! Look up and take in the picturesque views of the escarpment, take a short walk or drive to the Laurentian Ski Hill with the family, or simply savour your very own property by having dinner on the patio, a glass of wine on the deck/balcony, and admire the breathtaking landscape (designed by an award-winning landscape artist) that wraps around your home. Lush perennials, tall grasses, interlocking brick pathways, in-ground sprinkler system and outdoor lighting make this property standout from the rest! Step inside to relish in all of the updated features this home has to offer - gleaming maple hardwood floors & stairs, updated maple kitchen cabinets, ceramic tile with in-floor radiant heat in bathrooms and office, built-in entertainment units, finished laundry room, low-maintenance composite deck off dining area, recessed lighting, updated windows, doors, insulation... the list goes on! Working from home these days? Enter the private & professional home office right off the recreation room through french doors. Enjoy the under-cabinet lighting, as well as the natural light beaming through the window with views of the backyard. Pride of ownership is obvious. Nothing left to do, but move-in! Pre-inspected for your peace of mind.",
+            "DESCRIPTION_ENG": "A hidden gem that has everything you've been searching for - inside and out! Look up and take in the picturesque views of the escarpment, take a short walk or drive to the Laurentian Ski Hill with the family, or simply savour your very own property by having dinner on the patio.",
+            "DESCRIPTION_FR": "Un joyau caché qui a tout ce que vous cherchiez - à l'intérieur comme à l'extérieur! Levez les yeux et admirez les vues pittoresques de l'escarpement, faites une courte promenade ou conduisez jusqu'à la station de ski des Laurentides en famille, ou savourez simplement votre propriété en dînant sur la terrasse.",
+            "FOR_SALE": true,
+            "coordinates": [-75.468561642270757, 45.23032561834377],
+            "BEDROOM": "4",
+            "BATHROOM": "3"
+
+
+        }
+    ]
+
+}
